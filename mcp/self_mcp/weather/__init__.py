@@ -1,0 +1,1 @@
+from  .query import query_current_weather_by_city_code,query_forecast_weather_by_cityname
